@@ -18,6 +18,12 @@
   --btn-default-hover-color: #fff;
   --btn-default-hover-border-color: #222;
 }
+body {
+  background-image: url("/images/Background/1.1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
 html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
@@ -1168,7 +1174,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #fff;
+  background: #261c9d;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
