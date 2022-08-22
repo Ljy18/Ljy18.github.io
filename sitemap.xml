@@ -86,13 +86,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/LaTeX/</loc>
-    <lastmod>2022-08-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/%E5%85%AC%E5%BC%8F/</loc>
     <lastmod>2022-08-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -101,6 +94,13 @@
   
   <url>
     <loc>http://example.com/tags/Data-structure/</loc>
+    <lastmod>2022-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/LaTeX/</loc>
     <lastmod>2022-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -116,14 +116,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E6%89%8B%E5%86%8C/</loc>
+    <loc>http://example.com/categories/math/</loc>
     <lastmod>2022-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/math/</loc>
+    <loc>http://example.com/categories/%E6%89%8B%E5%86%8C/</loc>
     <lastmod>2022-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
