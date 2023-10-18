@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://ljy18.github.io/post/chinaunicon/</loc>
+    <lastmod>2023-10-18</lastmod>
+  </url>
+  <url>
     <loc>http://ljy18.github.io/post/loseweiht-and-history/</loc>
     <lastmod>2023-08-20</lastmod>
   </url>
@@ -25,15 +29,15 @@
     <lastmod>2023-02-26</lastmod>
   </url>
   <url>
-    <loc>http://ljy18.github.io/post/LineIntegral/</loc>
-    <lastmod>2023-02-24</lastmod>
-  </url>
-  <url>
     <loc>http://ljy18.github.io/post/If%20and%20while/</loc>
     <lastmod>2023-02-24</lastmod>
   </url>
   <url>
     <loc>http://ljy18.github.io/post/LaTeX%20Mathematical%20formula/</loc>
+    <lastmod>2023-02-24</lastmod>
+  </url>
+  <url>
+    <loc>http://ljy18.github.io/post/LineIntegral/</loc>
     <lastmod>2023-02-24</lastmod>
   </url>
   <url>
@@ -49,11 +53,11 @@
     <lastmod>2023-02-24</lastmod>
   </url>
   <url>
-    <loc>http://ljy18.github.io/post/pat1009/</loc>
+    <loc>http://ljy18.github.io/post/math-test/</loc>
     <lastmod>2023-02-24</lastmod>
   </url>
   <url>
-    <loc>http://ljy18.github.io/post/math-test/</loc>
+    <loc>http://ljy18.github.io/post/pat1009/</loc>
     <lastmod>2023-02-24</lastmod>
   </url>
   <url>
@@ -61,7 +65,7 @@
     <lastmod>2023-02-24</lastmod>
   </url>
   <url>
-    <loc>http://ljy18.github.io/post/vscode-markdown-preview-picture/</loc>
+    <loc>http://ljy18.github.io/post/vscode-c/</loc>
     <lastmod>2023-02-24</lastmod>
   </url>
   <url>
@@ -69,7 +73,7 @@
     <lastmod>2023-02-24</lastmod>
   </url>
   <url>
-    <loc>http://ljy18.github.io/post/vscode-c/</loc>
+    <loc>http://ljy18.github.io/post/vscode-markdown-preview-picture/</loc>
     <lastmod>2023-02-24</lastmod>
   </url>
 </urlset> 
