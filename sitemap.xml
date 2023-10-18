@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>http://ljy18.github.io/post/math-test/</loc>
+    <loc>http://ljy18.github.io/post/pat1009/</loc>
     
     <lastmod>2023-02-24</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://ljy18.github.io/post/pat1009/</loc>
+    <loc>http://ljy18.github.io/post/math-test/</loc>
     
     <lastmod>2023-02-24</lastmod>
     
@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>http://ljy18.github.io/post/vscode-c/</loc>
+    <loc>http://ljy18.github.io/post/prtandreference/</loc>
     
     <lastmod>2023-02-24</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>http://ljy18.github.io/post/prtandreference/</loc>
+    <loc>http://ljy18.github.io/post/vscode-c/</loc>
     
     <lastmod>2023-02-24</lastmod>
     
@@ -173,7 +173,7 @@
   </url>
   
   <url>
-    <loc>http://ljy18.github.io/categories/index.html</loc>
+    <loc>http://ljy18.github.io/tags/index.html</loc>
     
     <lastmod>2023-02-24</lastmod>
     
@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>http://ljy18.github.io/tags/index.html</loc>
+    <loc>http://ljy18.github.io/categories/index.html</loc>
     
     <lastmod>2023-02-24</lastmod>
     
@@ -242,6 +242,13 @@
   </url>
   
   <url>
+    <loc>http://ljy18.github.io/tags/Weight/</loc>
+    <lastmod>2023-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://ljy18.github.io/tags/news/</loc>
     <lastmod>2023-10-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -284,7 +291,7 @@
   </url>
   
   <url>
-    <loc>http://ljy18.github.io/tags/Weight/</loc>
+    <loc>http://ljy18.github.io/tags/history/</loc>
     <lastmod>2023-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -370,6 +377,13 @@
   </url>
   
   <url>
+    <loc>http://ljy18.github.io/categories/Daily/</loc>
+    <lastmod>2023-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://ljy18.github.io/categories/news/</loc>
     <lastmod>2023-10-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -378,13 +392,6 @@
   
   <url>
     <loc>http://ljy18.github.io/categories/AI/</loc>
-    <lastmod>2023-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://ljy18.github.io/categories/Daily/</loc>
     <lastmod>2023-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
